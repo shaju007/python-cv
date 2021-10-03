@@ -23,7 +23,7 @@ name = input('what is your name?')
 speak('hello' + name + 'how are you today?')
 speak('what is your phone number')
 phone_number = input('what is your phone number?')
-email = input('what is your email?')
+email = input('what is your email? ')
 document.add_paragraph(name + ' | ' + phone_number + ' | ' + email )
 
 # about me
