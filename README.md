@@ -1,5 +1,5 @@
 # Python CV
-Build cv with python
+Build cv with python, python practices.
 
 ## Installation
 run `pip install -r .\requirements.txt`
