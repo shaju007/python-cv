@@ -1,2 +1,2 @@
-# python-cv
+# Python CV
 Build cv with python
