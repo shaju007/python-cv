@@ -19,10 +19,10 @@ document = Document()
 document.add_picture('shaju.png', width=Inches(1))
 
 # name phone number and email
-name = input('what is your name?')
+name = input('what is your name? ')
 speak('hello' + name + 'how are you today?')
-speak('what is your phone number')
-phone_number = input('what is your phone number?')
+speak('what is your phone number? ')
+phone_number = input('what is your phone number? ')
 email = input('what is your email? ')
 document.add_paragraph(name + ' | ' + phone_number + ' | ' + email )
 
